@@ -17,7 +17,7 @@
 - [mat](https://github.com/mokulai/auto_generation_pytest)
   自己写的一个测试框架
 
-- [httprunner_proxy](https://github.com/mokulai/httprunner_proxy）
+- [httprunner_proxy](https://github.com/mokulai/httprunner_proxy)
   流量录制并生成符合httprunner格式的yaml文件，比原项目自带的har转yaml多了一个对结果的录制，功能逻辑合并到了mat里，已停止维护
 
 ### 对已有开源项目的修改
